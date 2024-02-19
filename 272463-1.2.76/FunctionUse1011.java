@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.util.ASMClassLoader;
+public class FunctionUse1011 {
+public void funcUse() {
+ASMClassLoader asmclassloader = new ASMClassLoader();
+}
+}
